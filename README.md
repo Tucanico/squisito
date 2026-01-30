@@ -1,4 +1,4 @@
-![Squisito](https://res.cloudinary.com/dtl48kr1u/image/upload/v1694116269/fake-shop/logo2_drwmph.png)
+<img src="https://res.cloudinary.com/dtl48kr1u/image/upload/v1694116269/fake-shop/logo2_drwmph.png" width="120" alt="Squisito" />
 
 Squisito is a Next.js e-commerce-style app for kitchen appliances (fake shop). It lists products from MongoDB, supports product detail pages, cart, and checkout. The brand logo is used in the navbar and footer.
 
