@@ -38,7 +38,7 @@ function Footer() {
                 <h6 className="text-uppercase fw-bold mb-4">Social networks</h6>
                 <p>
                   <a
-                    href="https://github.com/JacoLombardo"
+                    href="https://github.com/Tucanico"
                     target="_blank"
                     className="me-4 text-reset"
                   >
@@ -73,10 +73,10 @@ function Footer() {
                 <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
                 <p>
                   <a
-                    href="mailto:jacopo.lombardo@outlook.com"
+                    href="mailto:hello@jacopolombardo.com"
                     style={{ color: "black", textDecoration: "none" }}
                   >
-                    jacopo.lombardo@outlook.com
+                    hello@jacopolombardo.com
                   </a>
                 </p>
                 <p>
